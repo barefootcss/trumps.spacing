@@ -6,7 +6,7 @@ The `spacing` module contains helper classes for margins and padding.
 
 Install using Bower:
 
-	$ bower --save bare-spacing
+	$ bower install --save bare-spacing
 
 Import into project:
 
